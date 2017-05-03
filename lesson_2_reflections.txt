@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A folder becomes a Git repository, what allows us to track version history
+using commits. A hidden .git folder is created as well to store all the
+metadata.
