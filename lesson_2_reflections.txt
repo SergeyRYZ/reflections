@@ -23,3 +23,9 @@ How do the diagrams help you visualize the branch structure?
 I didn't draw a diagram, but even the --graph output was very informative, which can
 be of huge help when deciding which commits were successful and what the ideal final
 version could look like.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches brings the commits from both into a single version, which
+means changes from both of these get applied to the final result - bringing the
+bug fixes, new features etc. together. Honestly I don't quite remember how we 
+represent it but it essentially shows two sets of commits joining into one.
