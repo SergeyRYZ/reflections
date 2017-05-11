@@ -29,3 +29,7 @@ Merging two branches brings the commits from both into a single version, which
 means changes from both of these get applied to the final result - bringing the
 bug fixes, new features etc. together. Honestly I don't quite remember how we 
 represent it but it essentially shows two sets of commits joining into one.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging of changes can save us a lot of time, while its cautious stance
+on 'dubious' changes allows avoid any potentially unwanted changes at the same time.
