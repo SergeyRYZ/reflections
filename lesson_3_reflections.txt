@@ -16,3 +16,10 @@ repository.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It is good to have one's own copy of the last version of the remote to build on and 
 maybe branch out from, as it would allow to have all the recent approved commits.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Collaborating without version control would be hell of course, even on my own it can become
+a challenge once a project gets a little complicated. Of course, if we do everything manually
+there will be no need for 'conflict resolution', but the amount of effort it will consume defeats
+the purpose. Having GitHub as a centralized place where all the branches and commits are easily
+visible and can be discussed makes it a must have I think.
