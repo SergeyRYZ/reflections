@@ -23,3 +23,8 @@ a challenge once a project gets a little complicated. Of course, if we do everyt
 there will be no need for 'conflict resolution', but the amount of effort it will consume defeats
 the purpose. Having GitHub as a centralized place where all the branches and commits are easily
 visible and can be discussed makes it a must have I think.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Working only in master is probable easier when expanding an already established piece of code,
+where conflicts and bugs are not likely to arise. As soon as something new is introduced or the
+original model changes in any way doing that in a separate branch is definitely a goos idea.
